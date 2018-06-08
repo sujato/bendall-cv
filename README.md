@@ -22,6 +22,6 @@ Generally for the initial transcription we will keep it the same as the Hinuber 
 - `<>` text cancelled by the scribe
 - `<<>>` text omitted by the scribe
 - `+` obscure akṣara
-- `||`, `|` dandas as in the manuscript (use upright danda rater than slash as in Hinuber).
+- `||`, `|` dandas as in the manuscript (use upright danda rather than slash as in Hinuber).
 - `//` wrap line numbers in slash
 - `{}` folio numbers (no need to add PTS vol/page numbers)
