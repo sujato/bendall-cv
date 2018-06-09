@@ -30,3 +30,7 @@ Generally for the initial transcription we will keep it the same as the Hinuber 
 ## Issues with the transcription
 
 In the scanned version of von Hinuber's text that is uploaded here, the square brackets `[` can sometimes appear like dandas `|`. Be aware that there are no straight dandas in von Hinuber's text, he only uses slash `/`. So if it looks like danda, it's a square bracket!
+
+## Keyboard input
+
+An Atom package for using the Velthuis transliteration system (https://en.wikipedia.org/wiki/Velthuis) for inputting texts can be found here: https://github.com/SamaneriVimala/velthuis-autocorrect
