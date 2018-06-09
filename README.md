@@ -8,6 +8,7 @@ In his article, von Hinuber doesn’t give a name to the manuscript, usually jus
 The aim is to transcribe the fragment and make it available in a segmented plain text form that can be consumed by SuttaCentral and anyone else. The process is this:
 
 1. Type the text twice.
+1. Segment it.
 2. Diff it, correct, and merge.
 3. Diff it once more against SC’s Mahasangiti text.
 
@@ -25,3 +26,7 @@ Generally for the initial transcription we will keep it the same as the Hinuber 
 - `||`, `|` dandas as in the manuscript (use upright danda rather than slash as in Hinuber).
 - `//` wrap line numbers in slash
 - `{}` folio numbers (no need to add PTS vol/page numbers)
+
+## Issues with the transcription
+
+In the scanned version of von Hinuber's text that is uploaded here, the square brackets `[` can sometimes appear like dandas `|`. Be aware that there are no straight dandas in von Hinuber's text, he only uses slash `/`. So if it looks like danda, it's a square bracket!
