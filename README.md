@@ -5,7 +5,7 @@ Here we gather all the relevant information and files for the project.
 
 In his article, von Hinuber doesn’t give a name to the manuscript, usually just referring to it as “the Nepalese fragment”. But this is too vague, and a better name is wanted. Given that multiple manuscripts may emerge from Nepal or Kathmandu, I propose we name it after Clive Bendall, who brought this fragment to light in 1899. Thus it will be "Bendall CV" or bendall-cv.
 
-The aim is to transcribe the fragment and make it available in a segmented plain text form that can be consumed by SuttaCentral and anyone else. The process is this:
+The aim is to transcribe the fragment and make it available in a segmented plain text form that can be consumed by SuttaCentral and anyone else. The process is this, more or less:
 
 1. Type the text twice.
 1. Segment it.
