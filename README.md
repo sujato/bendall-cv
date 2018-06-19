@@ -43,3 +43,7 @@ An Atom package for using the Velthuis transliteration system (https://en.wikipe
 ** BE AWARE that in this text there are quotemarks that clash with the Velthuis system. So `"n` becomes `ṅ` and `"s"` becomes `ś` ** Be mindful that this can happen and correct it afterwards. The package only corrects the current word when followed by a space or linebreak.
 
 Note that the keyboard input uses `ṁ` instead of `ṃ`. This can be kept in this text.
+
+## Possible errors noted but not corrected:
+Folio 108b/3c/ one danda missing between `tha | pka`
+Folio 124b/2a/ <<arocesuṁ>> should probably be <<ārocesuṁ>>
