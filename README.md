@@ -31,11 +31,6 @@ Generally for the initial transcription we will keep it the same as the Hinuber 
 
 In the scanned version of von Hinuber's text that is uploaded here, the square brackets `[` can sometimes appear like dandas `|`. Be aware that there are no straight dandas in von Hinuber's text, he only uses slash `/`. So if it looks like danda, it's a square bracket!
 
-## Footnotes
-
-There are a few footnotes in the transcription. These are dealt with as follows:
-Folio 108b, footnote 1: Restoration not certain. In html we dealth with such issues as `class="unclear"`. I have used the notation `{{}}` for this.
-
 ## Keyboard input
 
 An Atom package for using the Velthuis transliteration system (https://en.wikipedia.org/wiki/Velthuis) for inputting texts can be found here: https://github.com/SamaneriVimala/velthuis-autocorrect
@@ -44,6 +39,11 @@ An Atom package for using the Velthuis transliteration system (https://en.wikipe
 
 Note that the keyboard input uses `ṁ` instead of `ṃ`. This can be kept in this text.
 
-## Possible errors noted but not corrected:
-Folio 108b/3c/ one danda missing between `tha | pka`
-Folio 124b/2a/ <<arocesuṁ>> should probably be <<ārocesuṁ>>
+## Possible errors en comments on the manuscript
+
+Folio 108b/3c/ one danda missing between `tha | pka` (not corrected)
+Folio 124b/2a/ <<arocesuṁ>> should probably be <<ārocesuṁ>> (not corrected)
+
+Then in several places in the script (I counted 6), as outlined on page 9, there is a letter m̄ (m with macron). It is not certain what this means and Ven. Anandajoti had never seen it used before either. I have just kept it in as is.
+
+There are a few footnotes in the transcription. I have not added these but they might need to be added. One I have added additional coding for: Folio 108b, footnote 1: Restoration not certain. In html we dealth with such issues as `class="unclear"`. I have used the notation `{{}}` for this.
