@@ -14,6 +14,14 @@ The aim is to transcribe the fragment and make it available in a segmented plain
 
 Once we are satisfied with the accuracy of the transcription, we will make it available on SC, using a custom element that enables Pali/Pali comparison with diffing against MS displayed in the browser.
 
+## The files
+
+- `bendall-cv2.tx` and `bendall-cv-3.txt` are the raw typed files. They should not be corrected further.
+- `pli-tv-kd14.html` and `pli-tv-kd15.html`are the Mahasangiti files as used on SC.
+- The `segmented` files have been segmented so as to match up as well as possible.
+- `bendall-cv.txt` is the master file for the text. It was created by comparing the differences in the above and checking with von Hinuber's edition. Future corrections should be done to this.
+- The `sanitized` versions have had all punctuation, capitals, references, and apparatus removed. These are for diffing. If `bendall-cv.txt` is corrected, the corresponding `sanitized` file should be updated.
+
 ## Conventions
 
 Generally for the initial transcription we will keep it the same as the Hinuber version, and will add proper markup later.
@@ -39,7 +47,7 @@ An Atom package for using the Velthuis transliteration system (https://en.wikipe
 
 Note that the keyboard input uses `ṁ` instead of `ṃ`. This can be kept in this text.
 
-## Possible errors en comments on the manuscript
+## Possible errors and comments on the manuscript
 
 Folio 108b/3c/ one danda missing between `tha | pka` (not corrected)
 Folio 124b/2a/ <<arocesuṁ>> should probably be <<ārocesuṁ>> (not corrected)
