@@ -7,11 +7,11 @@
 {[10]6a}/1a/ [ca deseti], (ubho saṁmukhabhūtā honti.
 ayaṁ tattha) [puggala](saṁmukhatā.
 kiṁ ca tattha) [paṭiññātakaraṇasmiṁ.
-yā paṭiññā/1b/takaraṇa](ssa kammassa) kiriyā karaṇa[ṁ] (upāgamanaṁ ajjhupāgamanaṁ) [adhi](vāsanā) [apaṭikkosana
+yā paṭiññā/1b/takaraṇa](ssa kammassa) kiriyā karaṇa[ṁ] (upāgamanaṁ ajjhupāgamanaṁ) [adhi](vāsanā) [apaṭikkosanā
 idaṁ tattha /1c/ paṭi/2a/ññātakaraṇasmiṁ.
-evaṁ vupasantaṁ ce bhikkhave] (adhikaraṇaṁ) paṭiggahako ukkoṭeti ukkoṭanakaṁ pācatti/2b/yaṁ.
+evaṁ vūpasantaṁ ce bhikkhave] (adhikaraṇaṁ) paṭiggāhako ukkoṭeti ukkoṭanakaṁ pācatti/2b/yaṁ.
 evaṁ ce taṁ labhethā(!) icc'etaṁ kusalaṁ.
-no ce labhetha tena bhikkhave bhikkhunā saṁvahule bhikkhu upasa[ṁ]kamitvā ekaṁ/2c/sa[ṁ] uttarāsaṁgaṁ (karitvā) vuḍḍhānaṁ bhikkhūnaṁ pāde (vanditvā) /3a/ [ukkuṭikaṁ nisiditvā aṁja](liṁ paggahetva evaṁ assu vacanīya):
+no ce labhetha tena bhikkhave bhikkhunā saṁvahule bhikkhu upasa[ṁ]kamitvā ekaṁ/2c/sa[ṁ] uttarāsaṁgaṁ (karitvā) vuḍḍhānaṁ bhikkhūnaṁ pāde (vanditvā) /3a/ [ukkuṭikaṁ nisīditvā aṁja](liṁ paggahetvā evaṁ assu vacanīyā):
 "ahaṁ bhaṁte itthaṁnāmaṁ <<āpattiṁ>> āpanno,
 taṁ papa(!)ṭi/3b/desemī"ti |
 vyattena bhikkhunā paṭi<<va>>lena te bhikkhu ññāpetavvā:
@@ -23,20 +23,20 @@ tena vattavvo:
 "āma passāmī"ti.
 "āyatiṁ] (saṁvareyyasī") ti.
 idaṁ vuccati bhikkhave adhikaraṇaṁ vūpasantaṁ.
-<<kena vupasantaṁ>>.
-saṁ/4b/mukhavinayena ca paṭiññatakaraṇena ca.
+<<kena vūpasantaṁ>>.
+saṁ/4b/mukhāvinayena ca paṭiññātakaraṇena ca.
 kiṁ ca tattha saṁmukhāvinayasmiṁ.
 dhammasaṁmukhatā vinayasaṁmukhatā puggala/4c/saṁmukha<yā>tā.
 kā ca tattha puggalasaṁmukhatā.
 yo ca deseti yassa ca deseti ubho saṁmukhibhūtā honti.
 [ayaṁ tattha /5a/ puggalasaṁmukhatā.
 kiṁ ca tattha paṭiññātakaraṇa](smiṁ.
-yā paṭi)ññātakaraṇassa kammassa kiriyā karaṇaṁ upā/5b/gamanaṁ ajjhupagamanaṁ adhivāsanā appaṭikkosana.
+yā paṭi)ññātakaraṇassa kammassa kiriyā karaṇaṁ upā/5b/gamanaṁ ajjhupāgamanaṁ adhivāsanā appaṭikkosanā.
 idaṁ tattha paṭiññātakaraṇasmiṁ
 evaṁ vūpasantaṁ ce bhikkhave /5c/ adhikaraṇaṁ paṭiggāhako ukkoṭeti, ukkoṭanakaṁ pācattiyaṁ.
 evaṁ ce taṁ labhetha (icc'etaṁ kusalaṁ).
 [no ce labhetha /6a/ tena bhikkhave bhikkhunā saṁghaṁ upasaṁkami](tvā ekaṁsaṁ) uttarāsaṁgaṁ karitvā (vuḍḍhānaṁ bhikkhūnaṁ) pāde va/6b/nditvā ukkuṭikam nisīditvā aṁjaliṁ paggahetvā evam assa (vaca)ni<va>yo:
-"ahaṁ bhaṁte itthaṁnāmaṁ apattiṁ āpanno,
+"ahaṁ bhaṁte itthaṁnāmaṁ āpattiṁ āpanno,
 taṁ /6c/ paṭidesemī"ti.
 vyattena bhikkhunā paṭivale<<na>> saṁgho (ññāpetavvo:
 "suṇātu me) bhaṁte saṁgho.
@@ -183,7 +183,7 @@ tena] /2a/ kho pana samayena chavvaggiyā bhikkhu mallakena nahayanti.
 manussā ujjhāyanti khiyyanti vipācenti:
 "seyyathāpi gi/2b/hi kamabhogino"ti ||
 bhagavato etam atthaṁ ārocesuṁ ||
-"na bhikkhave mallakena nahayitavvaṁ. <na> 
+"na bhikkhave mallakena nahayitavvaṁ. <na>
 yo nahayeyya, āpatti dukkaṭa/2c/ssā"ti 8 || pka || tha || pka ||
 tena kho pana samayena aṁññatarassa bhikkhuno kacchurogāā(!)vādho hoti.
 tassa [vinā mallakā] /3a/ <na> na phāsu hoti.
@@ -297,7 +297,7 @@ bhagavato etam atthaṁ ārocesuṁ |
 yo pārupeyya, āpatti dukkaṭassā"ti || pka || tha || pka ||
 tena kho pana samayena chavvaggiyā bhikkhu [saṁveli]/2a/kaṁ nivāsenti.
 manussā ujjhāyanti khiyyanti vipācenti:
-"seyyathāpi raṁño muṇḍaveṭṭī"ti || 
+"seyyathāpi raṁño muṇḍaveṭṭī"ti ||
 bhagavato etam atthaṁ <<arocesuṁ>>:
 "na bhi/2b/kkhave saṁveliyaṁ nivāsetavvaṁ.
 yo nivāseyya, āpatti dukkaṭassā"ti || pka || tha || pka ||
@@ -319,7 +319,7 @@ pittaṁ semhaṁ | bhattaṁ pariyonandhati 4 ||
 bhattam assa nā(!)cchāde/4b/ti.
 ime kho bhikkhave paṁca ādīnavā dantakaṭṭhassa akhādane ||
 paṁc'ime bhikkhave ānisaṁsā dantakaṭṭhassa khādane:
-ca/4c/kkhussaṁ 
+ca/4c/kkhussaṁ
 mukhaṁ na duggandhaṁ hoti 2
 rasāharaṇiyo visujjhanti ||
 pittaṁ semhaṁ bhattaṁ na pariyona(ndha)[nti |]
