@@ -7,11 +7,11 @@ In his article, von Hinuber doesn’t give a name to the manuscript, usually jus
 
 The aim is to transcribe the fragment and make it available in a segmented plain text form that can be consumed by SuttaCentral and anyone else. The process we used was this:
 
-1. Type the text twice, with two different typists (Venerables Vimala and Sunyo).
-1. Segment it, using the Mahasangiti as a reference.
-1. Diff the two typed versions, correct, and merge.
-1. We found that several glyphs were unclear due to poor quality scans, so we had the original article rescanned at this point. The master file was then checked once more against the new scan.
-1. Diff the bendall-cv against the sanitized text produced from SC’s Mahasangiti text, resolving any differences by referring to the new scans.
+1. Type the text twice, with two different typists (Venerables Vimala and Sunyo). ☑
+1. Segment it, using the Mahasangiti as a reference. ☑
+1. Diff the two typed versions, correct, and merge. ☑
+1. We found that several glyphs were unclear due to poor quality scans, so we had the original article rescanned at this point. The master file was then checked once more against the new scan. ☑
+1. Diff the bendall-cv against the sanitized text produced from SC’s Mahasangiti text, resolving any differences by referring to the new scans. ☒
 
 Once we are satisfied with the accuracy of the transcription, we will make it available on SC, using a custom element that enables Pali/Pali comparison with diffing against MS displayed in the browser.
 
