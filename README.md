@@ -49,9 +49,8 @@ Note that the keyboard input uses `ṁ` instead of `ṃ`. This can be kept in th
 
 ## Possible errors and comments on the manuscript
 
-Folio 107a/4b/ bhaṇḍanajātanaṁ should probably be bhaṇḍanajātānaṁ as elsewhere in the transcription. Corrected in master. (The ā in question seems to have a macron *below* it in Hinuber's book. I guess it's a printing error. Perhaps check against Devanagari ms.)
-Folio 108b/3c/ one danda missing between `tha | pka` (not corrected)
-Folio 124b/2a/ <<arocesuṁ>> should probably be <<ārocesuṁ>> (not corrected)
+- Folio 107a/4b/ bhaṇḍanajātanaṁ should probably be bhaṇḍanajātānaṁ as elsewhere in the transcription. Corrected in master. (The ā in question seems to have a macron *below* it in Hinuber's book. I guess it's a printing error. Perhaps check against Devanagari ms.)
+- Folio 108b/3c/ one danda missing between `tha | pka` (not corrected)
 
 
 Then in several places in the script (I counted 6), as outlined on page 9, there is a letter m̄ (m with macron). It is not certain what this means and Ven. Anandajoti had never seen it used before either. I have just kept it in as is.
