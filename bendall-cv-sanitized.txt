@@ -156,7 +156,8 @@ seyyathāpi gihi kāmabhoginoti
 assosuṁ kho bhikkhu tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ
 atha kho te bhikkhu bhagavato etam atthaṁ āsārocesuṁ || saccaṁ kira bhikkhave
 saccaṁ bhagavā
-vigarahitvā dhammiṁ kathaṁ katvā bhikkhu āmantesi:
+vigarahitvā
+dhammiṁ kathaṁ katvā bhikkhu āmantesi:
 na bhikkhave aṭṭhāne nahayitavvaṁ
 yo nahayeyya āpatti dukkaṭassāti || pka || tha || pka ||
 tena kho pana samayena chavvigavvaggiyā bhikkhu gandhavvahatthakena nahayanti
@@ -199,7 +200,8 @@ pāpaṁgaṁ dhārenti ||
 kaṇṭhasuttakan dhārenti ||
 paṭisuttakaṁ dhārenti ||
 ovaṭṭakaṁ || dhārenti
-keyūraṁ hatthābharaṇaṁ dhārenti ||
+keyūraṁ
+hatthābharaṇaṁ dhārenti ||
 aṁgulimuddikaṁ dhārenti | |
 manussā ujjhāyanti khiyyanti vipācenti:
 seyyathāpi gihi kāmabhoginoti
@@ -208,6 +210,7 @@ atha kho te bhikkhu bhagavato etam atthaṁ ārocesuṁ ||
 saccaṁ kira bhikkhave chavvaggiyā bhikkhu vāllikaṁ dhārenti ||
 pāvaṁgaṁ dhārenti
 kaṇṭhasuttaṁ dhārenti ||
+
 ovaṭṭakaṁ dhārenti ||
 keyūraṁ dhārenti ||
 hatthābharaṇaṁ dhārenti
@@ -239,8 +242,9 @@ From here to to sc is missing from bendallcv
 
 
 
- yo dhāreyya āpatti dukkaṭassāti
-anujānāmi bhikkhave dve kāyavandhane ti paṭṭikaṁ | sūkarantakanti ||
+yo dhāreyya āpatti dukkaṭassāti
+anujānāmi bhikkhave dve kāyavandhane ti
+paṭṭikaṁ | sūkarantakanti ||
 kāyavandhanassa dasā jīranti
 anujānāmi bhikkhave murajjaṁ maddavīṇaṁti ||
 kāyavandhanassa aṁto jīrati ||
@@ -308,13 +312,15 @@ tena kho pana sam̄mayena bhikkhu dantakaṭṭhaṁ na khādanti
 mukhaṁ duggandhaṁ hoti |
 bhagavato etam atthaṁ ārocesuṁ |
 paṁcime bhikkhave ādīnavā dantakaṭṭhassa akhādane:
-acakkhussaṁ mukhaṁ duggandhaṁ hoti ||
+acakkhussaṁ
+mukhaṁ duggandhaṁ hoti ||
 rasāharaṇiyo na visujjhanti |
 pittaṁ semhaṁ | bhattaṁ pariyonandhati ||
 bhattam assa nācchādeti
 ime kho bhikkhave paṁca ādīnavā dantakaṭṭhassa akhādane ||
 paṁcime bhikkhave ānisaṁsā dantakaṭṭhassa khādane:
-cakkhussaṁ mukhaṁ na duggandhaṁ hoti
+cakkhussaṁ
+mukhaṁ na duggandhaṁ hoti
 rasāharaṇiyo visujjhanti ||
 pittaṁ semhaṁ bhattaṁ na pariyonandhanti |
 bhattam assa cchādeti |
