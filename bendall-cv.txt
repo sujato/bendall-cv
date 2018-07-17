@@ -186,7 +186,7 @@ bhagavato etam atthaṁ ārocesuṁ ||
 “na bhikkhave mallakena nahayitavvaṁ.
 <na> yo nahayeyya, āpatti dukkaṭa/2c/ssā”ti 8 || pka || tha || pka ||
 tena kho pana samayena aṁññatarassa bhikkhuno kacchūrogāā(!)vādho hoti.
-tassa [vinā mallakā] /3a/ <na> na phāsu hoti.
+tassa [vinā mallakā] /3a/ <na> {{na}} phāsu hoti.
 bhagavato etam atthaṁ ārocesuṁ ||
 “anujānāmi bhikkhave gilānassa akatamallakan”ti 9 || tha || pka ||/3b/ tha || tha(!) ||
 tena kho pana samayena aṁññataro bhikkhu jarāduvvalo na<ya>hayamāno na sakkoti attano kāyaṁ ugghaṁsetum̄.
