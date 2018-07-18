@@ -3,7 +3,7 @@ Digitization of Oskar von Hinüber’s transcription of a fragment of the Pali C
 
 Here we gather all the relevant information and files for the project. The aim is to transcribe the fragment and make it available in a segmented plain text form that can be consumed by SuttaCentral and anyone else.
 
-In his article, von Hinüber doesn’t give a name to the manuscript, usually just referring to it as “the Nepalese fragment”. But this is too vague, and a better name is wanted. I propose we name it after Clive Bendall, who brought this fragment to light in 1899. Thus it will be "Bendall CV" or `bendall-cv`.
+In his article, von Hinüber doesn’t give a name to the manuscript, usually just referring to it as “the Nepalese fragment”. But this is too vague, and a better name is wanted. I propose we name it after Clive Bendall, who brought this fragment to light in 1899. Thus it will be “Bendall Cullavagga” or `bendall-cv`.
 
 The process we used was this:
 
@@ -17,7 +17,7 @@ Once we are satisfied with the accuracy of the transcription, we will make it av
 
 ## The files
 
-- `bendall-cv.txt` is the master file for the text. It was created by comparing the differences in the above and checking with von Hinüber's edition. Future corrections should be done to this.
+- `bendall-cv.txt` is the master file for the text. It was created by comparing the differences in the above and checking with von Hinüber’s edition. Future corrections should be done to this.
 - `pli-tv-kd14.html` and `pli-tv-kd15.html`are the Mahāsaṅgīti files as used on SC.
 - The `segmented` files have been segmented so as to match up as well as possible.
 - The `sanitized` versions have had all punctuation, capitals, references, and apparatus removed. These are for diffing.
@@ -42,12 +42,12 @@ Generally for the initial transcription we keep it the same as the von Hinüber 
 
 An Atom package for using the Velthuis transliteration system (https://en.wikipedia.org/wiki/Velthuis) for inputting texts can be found here: https://github.com/SamaneriVimala/velthuis-autocorrect
 
-- **BE AWARE** that in this text there are quotemarks that clash with the Velthuis system. So `"n` becomes `ṅ` and `"s"` becomes `ś` ** Be mindful that this can happen and correct it afterwards. The package only corrects the current word when followed by a space or linebreak.
+- In this text there are quotemarks that clash with the Velthuis system. So `"n` becomes `ṅ` and `"s"` becomes `ś` Be mindful that this can happen and correct it afterwards. The package only corrects the current word when followed by a space or linebreak.
 - Note that the keyboard input uses `ṁ` instead of `ṃ`.
 
 ## Notes
 
 - Folio 107a/4b/ bhaṇḍanajātanaṁ should probably be bhaṇḍanajātānaṁ as elsewhere in the transcription. Corrected in `bendall-cv.txt`.
 - Folio 108b/3c/ one daṇḍa missing between `tha | pka`. Corrected in `bendall-cv.txt`.
-- In 7 places in the script there is a letter m̄ (m with macron). These are described by von Hinüber (p. 9) as “miniature *akṣaras* the meaning of which cannot always be established.” It is a kind of *anusvāra*, so it may be best to simply replace with ṁ.
-- There are a few footnotes in the transcription. One we have added additional coding for: Folio 108b/3c, footnote 1: Restoration not certain. In SuttaCentral html we dealt with such issues as `class="unclear"`. We have used the notation `{{}}` for this.
+- In 7 places in the script there is a letter m̄ (m with macron), described by von Hinüber (p. 9) as “miniature *akṣaras* the meaning of which cannot always be established.” It is a kind of *anusvāra*, so it may be best to simply replace with ṁ. However we have left it for the time being, using m̄.
+- There are a few footnotes in the transcription. One we have added additional coding for: Folio 108b/3c, footnote 1: Restoration not certain. We have used the notation `{{}}` for this.  In SuttaCentral html we dealt with such issues as `class=“unclear”`.
